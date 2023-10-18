@@ -1,0 +1,33 @@
+html{
+    text-align: center;
+}
+
+nav{
+    color:crimson;
+    font-size: 120px;
+}
+
+header{
+    background-color:rgb(193, 248, 230);
+    border-radius: 10px;
+}
+
+article{
+    height: 100%;
+    border-radius: 10px;
+    background-color: #eeeee4;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.a1{
+    width: 50%;
+    height: 50%;
+    display: flex;
+}
+
+.a1:hover{
+    opacity: 0.4;
+}
